@@ -1,0 +1,21 @@
+{
+  "@context": "https://openactive.io/",
+  "@type": "ConceptCollection",
+  "@id": " https://sportengland-jointhemovement.github.io/collections/boxingfitness.jsonld",
+  "prefLabel": "Boxing Fitness",
+  "inScheme": "https://openactive.io/activity-list",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "definition": "Activity types that fit under the 'Boxing Fitness' drop down filter on the Join the Movement virtual timetable",
+  "member": [
+    "https://openactive.io/activity-list#d4417bb3-383f-489b-b0c7-731b82f3b220",
+    "https://openactive.io/activity-list#2ef0ae95-61e2-4beb-9eda-e96f126878de",
+    "https://openactive.io/activity-list#1eb737b6-9962-469d-98cc-0a2e4e86d356",
+    "https://openactive.io/activity-list#279d3250-6f78-482b-85aa-99e83c6a2cd0",
+    "https://openactive.io/activity-list#25b963ea-e01e-4fd9-ba38-275f1d278ed6",
+    "https://openactive.io/activity-list#9b84edd8-1934-409a-965e-77a74e9b3609",
+    "https://openactive.io/activity-list#0771fcb2-b5f7-4247-8d54-90648c839d46",
+    "https://openactive.io/activity-list#bc6152ae-f97a-4181-a0c5-d4474db41f17",
+    "https://openactive.io/activity-list#424a5a34-5b68-44e8-a348-cd17445edb00",
+    "https://openactive.io/activity-list#0a4f1f2b-5ca1-458b-b90a-b488f4a9f569"
+  ]
+}
