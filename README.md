@@ -1,4 +1,4 @@
-# collections
+# Join the Movement Virtual Timetable Activity List Collections
 Repository for SKOS Collections related to the OpenActive Activity List, that power the drop down filter on the Join the Movement virtual timetable.
 
 - [Boxing Fitness](https://sportengland-jointhemovement.github.io/collections/boxingfitness.jsonld) - [Edit](https://openactive.io/collection-editor/#url=https://sportengland-jointhemovement.github.io/collections/boxingfitness.jsonld)
