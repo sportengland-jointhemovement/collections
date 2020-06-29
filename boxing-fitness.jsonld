@@ -1,7 +1,7 @@
 {
   "@context": "https://openactive.io/",
   "@type": "ConceptCollection",
-  "@id": "https://sportengland-jointhemovement.github.io/collections/boxingfitness.jsonld",
+  "@id": "https://sportengland-jointhemovement.github.io/collections/boxing-fitness.jsonld",
   "prefLabel": "Boxing Fitness",
   "inScheme": "https://openactive.io/activity-list",
   "license": "https://creativecommons.org/licenses/by/4.0/",
